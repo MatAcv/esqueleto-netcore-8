@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-SISS-DTSX", "API-SISS-DTSX\API-SISS-DTSX.csproj", "{0EC92A16-32FB-4185-AD3D-6B90D7CF42E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{E165AAA8-AEBB-442A-98F9-0AA891724C7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{E44F35FF-2D15-4A8F-84E6-38965EBE63B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EC92A16-32FB-4185-AD3D-6B90D7CF42E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC92A16-32FB-4185-AD3D-6B90D7CF42E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC92A16-32FB-4185-AD3D-6B90D7CF42E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC92A16-32FB-4185-AD3D-6B90D7CF42E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E165AAA8-AEBB-442A-98F9-0AA891724C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E165AAA8-AEBB-442A-98F9-0AA891724C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E165AAA8-AEBB-442A-98F9-0AA891724C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E165AAA8-AEBB-442A-98F9-0AA891724C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E44F35FF-2D15-4A8F-84E6-38965EBE63B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44F35FF-2D15-4A8F-84E6-38965EBE63B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E44F35FF-2D15-4A8F-84E6-38965EBE63B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E44F35FF-2D15-4A8F-84E6-38965EBE63B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E018C77D-4822-49D7-9C1C-59A770A1B5D7}
+	EndGlobalSection
+EndGlobal
